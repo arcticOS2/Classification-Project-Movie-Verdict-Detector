@@ -1,0 +1,943 @@
+Movie,imdb_id,Run_time (min),Released_month,imdb_Rating,imdb_Votes
+Pathaan,tt12844910,146.0,Jan,5.8,160670.0
+Baahubali 2 The Conclusion,tt4849438,167.0,Apr,8.2,124249.0
+Dangal,tt5074352,161.0,Dec,8.3,229403.0
+Sanju,tt6452574,155.0,Jun,7.6,63305.0
+PK,tt2338151,153.0,Dec,8.1,212778.0
+Tiger Zinda Hai,tt5956100,161.0,Dec,5.9,34819.0
+Bajrangi Bhaijaan,tt3863552,163.0,Jul,8.1,105349.0
+War,tt0499556,103.0,Aug,6.2,98320.0
+Padmaavat,tt5935704,163.0,Jan,7.1,38405.0
+Sultan,tt4832640,170.0,Jul,7.1,53442.0
+Kabir Singh,tt8983202,173.0,Jun,7.0,42014.0
+Tanhaji: The Unsung Warrior,tt8108274,135.0,Jan,7.5,36561.0
+RRR,tt8178634,187.0,Mar,7.8,179459.0
+Dhoom 3,tt1833673,172.0,Dec,5.4,51186.0
+The Kashmir Files,tt10811166,170.0,Mar,8.6,575455.0
+Brahmastra Part One: Shiva,tt6277462,167.0,Sep,5.6,112987.0
+URI The Surgical Strike,tt8291224,138.0,Jan,8.2,74787.0
+Simmba,tt7212726,158.0,Dec,5.5,22823.0
+Drishyam 2,tt15501640,140.0,Nov,8.2,47406.0
+Kick,tt2372222,146.0,Jul,6.0,74314.0
+Krrish 3,tt1029231,152.0,Nov,5.3,26039.0
+Chennai Express,tt2112124,141.0,Aug,6.2,68030.0
+Bharat,tt7721800,150.0,Jun,4.7,32794.0
+Housefull 4,tt7721946,145.0,Oct,3.6,14640.0
+Prem Ratan Dhan Payo,tt3595298,164.0,Nov,4.4,24141.0
+Golmaal Again,tt1806913,140.0,Oct,5.0,11032.0
+Good Newwz,tt8504014,134.0,Dec,6.8,22703.0
+Mission Mangal,tt9248972,130.0,Aug,6.5,18330.0
+3 Idiots,tt1187043,170.0,Dec,8.4,460337.0
+Happy New Year,tt2461132,180.0,Oct,5.0,42555.0
+Ek Tha Tiger,tt2016894,132.0,Aug,5.6,39439.0
+Sooryavanshi,tt9531772,145.0,Nov,5.8,80552.0
+2,tt0103064,137.0,Jul,8.6,1241481.0
+Yeh Jawaani Hai Deewani,tt2178470,160.0,May,7.3,54074.0
+Bhool Bhulaiyaa 2,tt6455162,143.0,May,5.7,35287.0
+Bajirao Mastani,tt3735246,158.0,Dec,7.3,39680.0
+Bang Bang!,tt3701644,12.0,Nov,7.7,46.0
+Race 3,tt7431594,160.0,Jun,1.9,49315.0
+Baaghi 2,tt6843812,137.0,Mar,4.8,11963.0
+Raees,tt3405236,143.0,Jan,6.6,52595.0
+Kesari,tt6264938,150.0,Mar,7.4,24169.0
+Total Dhamaal,tt7639372,130.0,Feb,4.2,8150.0
+Dabangg 2,tt2112131,120.0,Dec,4.8,20343.0
+Chhichhore,tt9052870,143.0,Sep,8.3,68316.0
+Tanu Weds Manu Returns,tt2140465,128.0,May,7.6,29966.0
+Bodyguard,tt7493974,60.0,Oct,8.0,161571.0
+Dilwale,tt4535650,158.0,Dec,5.1,39547.0
+Super 30,tt7485048,154.0,Jul,7.9,38301.0
+Dabangg 3,tt7059844,160.0,Dec,3.0,20614.0
+Saaho,tt6836936,170.0,Aug,5.1,24895.0
+Thugs Of Hindostan,tt5970844,164.0,Nov,4.1,22257.0
+Dream Girl,tt9248940,132.0,Sep,7.0,17488.0
+Singham Returns,tt2309764,142.0,Aug,5.7,10803.0
+Dabangg,tt1620719,126.0,Sep,6.2,35017.0
+Gully Boy,tt2395469,154.0,Feb,7.9,44564.0
+Judwaa 2,tt5456546,145.0,Sep,3.7,12256.0
+Badhaai Ho,tt7725596,124.0,Oct,7.9,38724.0
+The Kerala Story,tt24268454,138.0,May,6.9,73942.0
+Rowdy Rathore,tt2077833,140.0,Jun,5.8,24878.0
+M.S. Dhoni: The Untold Story,tt4169250,184.0,Sep,8.0,71851.0
+Gangubai Kathiawadi,tt10083340,152.0,Feb,7.8,64383.0
+Stree,tt8108202,128.0,Aug,7.5,43429.0
+Airlift,tt4387040,130.0,Jan,7.9,59531.0
+Avatar: The Way of Water,tt1630029,192.0,Dec,7.5,539759.0
+Rustom,tt5165344,148.0,Aug,7.0,29545.0
+Raazi,tt7098658,138.0,May,7.7,34863.0
+Ready,tt1708532,145.0,Jun,4.9,20101.0
+Jab Tak Hai Jaan,tt2176013,176.0,Nov,6.7,61048.0
+Tubelight,tt5882970,136.0,Jun,3.9,22086.0
+Baahubali,tt2631186,159.0,Jul,8.0,145507.0
+Agneepath,tt1849718,174.0,Jan,6.9,27561.0
+Jai Ho,tt1188982,135.0,Jan,5.0,21406.0
+Jolly LLB 2,tt5982852,137.0,Feb,7.2,28617.0
+Bala,tt9420648,133.0,Nov,7.3,16468.0
+Ra.One,tt1562871,156.0,Oct,4.8,47912.0
+Ghajini,tt1166100,186.0,Dec,7.3,68367.0
+Ae Dil Hai Mushkil,tt4559006,158.0,Oct,5.8,26873.0
+Holiday,tt2556308,160.0,Jun,7.2,30846.0
+Barfi!,tt2082197,151.0,Sep,8.1,88779.0
+Housefull 2,tt1980986,145.0,Apr,5.4,16357.0
+Housefull 3,tt4559046,140.0,Jun,4.9,11062.0
+Gold,tt1800302,120.0,Jan,6.7,70479.0
+Kisi Ka Bhai Kisi Ki Jaan,tt3679040,145.0,Apr,4.0,41238.0
+Sonu Ke Titu Ki Sweety,tt7581902,138.0,Feb,7.1,25081.0
+Bhaag Milkha Bhaag,tt2356180,186.0,Jul,8.2,74513.0
+Golmaal 3,tt1562859,155.0,Nov,5.6,10063.0
+Pushpa: The Rise (Part 1),tt9389998,179.0,Dec,7.6,97231.0
+ABCD 2,tt6049376,,Jun,,
+Ek Villain,tt11947158,129.0,Jul,4.4,16063.0
+Son Of Sardaar,tt2178508,141.0,Nov,4.2,10910.0
+Kaabil,tt5460276,139.0,Jan,7.1,29951.0
+De De Pyaar De,tt8647400,135.0,May,6.5,9205.0
+83,tt7518786,162.0,Dec,7.5,42088.0
+Bol Bachchan,tt1728986,155.0,Jul,5.6,10213.0
+Raid,tt7363076,122.0,Mar,7.4,19739.0
+2 States,tt2372678,149.0,Apr,6.9,27443.0
+Grand Masti,tt2476154,137.0,Sep,4.5,6781.0
+Race 2,tt1375789,150.0,Jan,5.3,17840.0
+Singham,tt1948150,143.0,Jul,6.8,19776.0
+Shivaay,tt3771536,153.0,Oct,6.1,11451.0
+Batla House,tt8869978,146.0,Aug,7.2,12797.0
+Zero,tt6527426,164.0,Dec,5.2,30846.0
+Welcome Back,tt3159708,152.0,Sep,4.3,7003.0
+Baaghi 3,tt8366590,143.0,Mar,2.2,14498.0
+Baby,tt3848892,159.0,Jan,7.9,61330.0
+Manikarnika: The Queen of Jhansi,tt6903440,148.0,Jan,6.4,16368.0
+Luka Chuppi,tt8908002,126.0,Mar,6.4,13744.0
+Raajneeti,tt1291465,163.0,Jun,7.1,19414.0
+Talaash,tt0244366,,,7.8,42.0
+Satyameva Jayate,tt8202612,140.0,Aug,5.7,8045.0
+Bholaa,tt15302222,144.0,Mar,5.8,23138.0
+Singh Is Bliing,tt3696192,141.0,Oct,5.0,9341.0
+Zindagi Na Milegi Dobara,tt1562872,155.0,Jul,8.2,90304.0
+Badla,tt8130968,118.0,Mar,7.7,31751.0
+Gabbar is Back,tt2424988,128.0,May,7.0,27056.0
+Rab Ne Bana Di Jodi,tt1182937,167.0,Dec,7.2,55483.0
+Kantara,tt15327088,148.0,Sep,8.2,107859.0
+Kalank,tt6988116,166.0,Apr,3.7,17438.0
+Pati Patni Aur Woh,tt9680136,126.0,Dec,5.8,8714.0
+Fan,tt3495026,142.0,Apr,6.8,50180.0
+My Name Is Khan,tt1188996,165.0,Feb,7.9,118527.0
+Brothers,tt0765010,105.0,Dec,7.1,161939.0
+Oh My God,tt1326954,93.0,Aug,6.1,479.0
+Veere Di Wedding,tt5842616,135.0,Jun,3.3,13446.0
+Sairat,tt5312232,174.0,Apr,8.3,14965.0
+Dhoom 2,tt0441048,152.0,Nov,6.6,30727.0
+Fukrey Returns,tt6712014,141.0,Dec,6.5,6565.0
+The Dirty Picture,tt1954206,145.0,Dec,6.6,10914.0
+Piku,tt3767372,123.0,May,7.6,34859.0
+Sui Dhaaga - Made In India,tt7147540,122.0,Sep,6.8,9425.0
+Vikram Vedha,tt6148156,147.0,Jul,8.2,52192.0
+Gunday,tt2574698,152.0,Feb,2.7,60794.0
+Om Shanti Om,tt1024943,162.0,Nov,6.8,53044.0
+Baadshaho,tt4906960,136.0,Sep,4.9,5425.0
+Aashiqui 2,tt2203308,132.0,Apr,7.1,34592.0
+Dil Dhadakne Do,tt4110568,170.0,Jun,7.0,20475.0
+Humpty Sharma Ki Dulhania,tt3678938,133.0,Jul,6.0,14387.0
+Gadar: Ek Prem Katha,tt0284137,170.0,Jun,7.3,15902.0
+Baaghi,tt4864932,133.0,Apr,5.3,10859.0
+Housefull,tt1573072,144.0,Apr,5.6,16434.0
+Neerja,tt5286444,122.0,Feb,7.6,24024.0
+Lage Raho Munna Bhai,tt0456144,144.0,Sep,8.0,51250.0
+Ram Setu,tt11783766,140.0,Oct,5.3,18106.0
+Andhadhun,tt8108198,139.0,Oct,8.2,106085.0
+Dhadak,tt7638344,138.0,Jul,4.6,10635.0
+Street Dancer 3D,tt9648672,146.0,Jan,3.7,8398.0
+Kapoor & Sons,tt4900716,132.0,Mar,7.7,28920.0
+Hum Aapke Hain Koun..!,tt0110076,206.0,Aug,7.5,23002.0
+Entertainment,tt3343784,103.0,Nov,5.7,3301.0
+Krrish,tt0432637,154.0,Jun,6.5,25787.0
+Cocktail,tt0094889,104.0,Jul,5.9,94846.0
+Student Of The Year 2,tt7255568,146.0,May,2.2,22907.0
+Khiladi 786,tt2166214,141.0,Dec,4.4,8030.0
+Welcome,tt0488798,150.0,Dec,7.1,27760.0
+Dishoom,tt3679060,124.0,Jul,5.2,9293.0
+Student Of The Year,tt2172071,146.0,Oct,5.3,21281.0
+Raaz 3,tt2140315,139.0,Sep,4.2,4164.0
+Hindi Medium,tt5764096,132.0,May,7.8,33005.0
+Bhediya,tt14099334,156.0,Nov,6.7,26585.0
+Kedarnath,tt7027278,116.0,Dec,6.8,15499.0
+Dear Zindagi,tt5946128,151.0,Nov,7.4,45172.0
+Tamasha,tt3148502,139.0,Nov,7.4,33263.0
+Drishyam,tt4430212,163.0,Jul,8.2,100740.0
+Special 26,tt2377938,144.0,Feb,8.0,60965.0
+Love Aaj Kal,tt1275863,128.0,Jul,6.8,17340.0
+Article 15,tt10324144,130.0,Jun,8.1,38070.0
+R... Rajkumar,tt2369154,146.0,Dec,5.3,6998.0
+Samrat Prithviraj,tt9637132,135.0,Jun,5.6,53617.0
+Parmanu The Story Of Pokhran,tt6826438,129.0,May,7.6,25431.0
+Pink,tt5571734,136.0,Sep,8.0,49994.0
+Jab Harry Met Sejal,tt5997666,143.0,Aug,5.1,23296.0
+Pyaar Ka Punchnama 2,tt4430136,137.0,Oct,7.2,16288.0
+Ajab Prem Ki Ghazab Kahani,tt1252596,150.0,Nov,6.4,17304.0
+Satyagraha,tt2275802,152.0,Aug,5.9,5492.0
+Humshakals,tt3036740,159.0,Jun,1.7,8918.0
+Secret Superstar,tt6108090,150.0,Oct,7.8,30247.0
+Taare Zameen Par,tt13300004,,Nov,7.0,50.0
+Shubh Mangal Zyada Saavdhan,tt10309906,117.0,Feb,5.8,10775.0
+Rockstar,tt1839596,159.0,Nov,7.8,52278.0
+Laal Singh Chaddha,tt10028196,159.0,Aug,5.6,178736.0
+Tees Maar Khan,tt1572311,135.0,Dec,2.8,15177.0
+Queen,tt3322420,146.0,Mar,8.1,69745.0
+Wanted,tt0493464,110.0,Jun,6.7,419720.0
+Race,tt3499096,134.0,Feb,7.1,42925.0
+Udta Punjab,tt4434004,148.0,Jun,7.7,32640.0
+Half Girlfriend,tt5474042,135.0,May,4.6,8080.0
+Befikre,tt5108476,130.0,Dec,4.1,8429.0
+Raanjhanaa,tt2359810,140.0,Jun,7.6,36287.0
+Partner,tt0807758,155.0,Jul,5.8,13894.0
+Besharam,tt2576450,143.0,Oct,3.5,6212.0
+Malang,tt9877170,135.0,Feb,6.5,12488.0
+Shootout at Wadala,tt2301155,155.0,May,6.0,7716.0
+Mere Brother Ki Dulhan,tt1740710,139.0,Sep,5.9,10456.0
+Mohenjo Daro,tt3859980,155.0,Aug,5.6,12973.0
+Action Jackson,tt0094612,96.0,Feb,5.6,13166.0
+Mary Kom,tt3001638,122.0,Sep,6.8,11577.0
+Haider,tt3390572,160.0,Oct,8.0,58694.0
+Jodhaa Akbar,tt0449994,213.0,Feb,7.5,35826.0
+Mubarakan,tt6272828,156.0,Jul,5.6,4415.0
+Once Upon a Time in Mumbaai,tt1395054,134.0,Jul,7.4,19291.0
+Jaane Tu... Ya Jaane Na,tt0473367,155.0,Jul,7.4,28752.0
+Yamla Pagla Deewana,tt1773109,163.0,Jan,5.7,4770.0
+Kabhi Khushi Kabhie Gham,tt0248126,210.0,Dec,7.4,58366.0
+Boss,tt1833285,1.0,Oct,8.1,18676.0
+Phantom,tt1922685,98.0,Mar,5.9,15360.0
+Jagga Jasoos,tt4129428,161.0,Jul,6.4,12084.0
+Dilwale Dulhania Le Jayenge,tt0112870,181.0,Oct,8.0,80809.0
+Rang De Basanti,tt0405508,167.0,Jan,8.1,123635.0
+Heropanti,tt3142232,146.0,May,5.2,11092.0
+Ki & Ka,tt3679040,145.0,Apr,4.0,41238.0
+102 Not Out,tt6580564,102.0,May,7.4,7640.0
+Fanaa,tt0439662,168.0,May,7.1,36111.0
+Hate Story 3,tt4865436,126.0,Dec,4.6,3541.0
+Delhi Belly,tt1934231,103.0,Jul,7.6,33003.0
+Kahaani,tt1821480,122.0,Mar,8.1,67697.0
+Golmaal Returns,tt1092005,135.0,Oct,5.2,9371.0
+Main Tera Hero,tt2762334,128.0,Apr,5.1,10579.0
+Sachin A Billion Dreams,tt4640206,138.0,May,8.5,8438.0
+Sachin: A Billion Dreams,tt4640206,138.0,May,8.5,8438.0
+Bachchhan Paandey,tt10699086,147.0,Mar,5.0,36839.0
+Badlapur,tt3678782,134.0,Feb,7.4,26310.0
+Kis Kisko Pyaar Karoon,tt4302956,133.0,Sep,5.6,6464.0
+Spider-Man: No Way Home,tt10872600,148.0,Dec,8.2,958084.0
+Kai Po Che!,tt2213054,120.0,Feb,7.8,39396.0
+Bhool Bhulaiyaa,tt0995031,159.0,Oct,7.5,36269.0
+Kites,tt1198101,123.0,May,6.0,13956.0
+Raksha Bandhan,tt12834962,108.0,Aug,5.4,26878.0
+De Dana Dan,tt1255951,162.0,Nov,5.9,11466.0
+Marjaavaan,tt9248934,152.0,Nov,3.7,4722.0
+Murder 2,tt1918965,127.0,Jul,6.3,7945.0
+Himmatwala,tt2344678,150.0,Mar,1.7,9313.0
+Mardaani 2,tt5668770,103.0,Dec,7.3,10607.0
+Heyy Babyy,tt0806088,144.0,Aug,6.1,16476.0
+Kambakkht Ishq,tt1144804,142.0,Jul,3.8,7658.0
+Koi... Mil Gaya,tt0254481,171.0,Aug,7.1,28267.0
+Kuch Kuch Hota Hai,tt0172684,185.0,Oct,7.5,58570.0
+Ragini MMS 2,tt2609218,119.0,Mar,3.8,3167.0
+Thank You,tt1720254,125.0,Apr,4.8,6478.0
+Shuddh Desi Romance,tt2988272,141.0,Sep,5.8,10342.0
+Hichki,tt6588966,116.0,Mar,7.5,14225.0
+October,tt7700730,115.0,Apr,7.6,19685.0
+Veer,tt1185412,169.0,Jan,4.6,8900.0
+Ishaqzaade,tt2308773,120.0,May,6.5,8496.0
+Guru,tt0499375,166.0,Jan,7.7,25336.0
+New York,tt1328634,153.0,Jun,6.8,12388.0
+Kabhi Alvida Naa Kehna,tt0449999,193.0,Aug,6.1,22834.0
+No Entry,tt0451833,158.0,Aug,6.6,13071.0
+Roy,tt2976182,146.0,Feb,3.2,7955.0
+K.G.F : Chapter 1,tt7838252,154.0,Dec,8.2,102678.0
+ABCD: Any Body Can Dance,tt2321163,160.0,Feb,6.3,7594.0
+Dostana,tt1185420,145.0,Nov,6.4,16563.0
+Double Dhamaal,tt1728239,138.0,Jul,4.0,4760.0
+Kaho Naa... Pyaar Hai,tt0234000,172.0,Jan,6.9,16937.0
+Heroine,tt1949548,149.0,Sep,5.0,4657.0
+Ek Villain Returns,tt11947158,129.0,Jul,4.4,16063.0
+Raja Hindustani,tt0117437,177.0,Nov,6.1,8557.0
+Agent Vinod,tt1395025,157.0,Mar,5.2,8204.0
+Shaandaar,tt4007558,144.0,Oct,3.6,6557.0
+I Hate Luv Storys,tt1667838,129.0,Jul,5.7,8751.0
+Romeo Akbar Walter,tt8550208,141.0,Apr,6.7,6433.0
+Madras Cafe,tt2855648,130.0,Aug,7.6,25575.0
+Desi Boyz,tt1985981,122.0,Nov,5.7,15421.0
+Veer-Zaara,tt0420332,192.0,Nov,7.8,59059.0
+Jannat 2,tt2319889,150.0,May,6.3,6161.0
+Mohabbatein,tt0213890,216.0,Oct,7.1,35279.0
+Devdas,tt0238936,185.0,Jul,7.5,49605.0
+All The Best: Fun Begins,tt1433905,144.0,Oct,6.2,7356.0
+Kaminey,tt1274295,130.0,Aug,7.4,18336.0
+Chashme Baddoor,tt2229848,121.0,Apr,5.4,5404.0
+Pagalpanti,tt9495690,149.0,Nov,3.3,2958.0
+Atithi Tum Kab Jaoge?,tt1578116,155.0,Mar,6.5,7099.0
+Wazir,tt0315642,103.0,Jan,7.1,20424.0
+Batti Gul Meter Chalu,tt7720922,161.0,Sep,5.9,6515.0
+Phir Hera Pheri,tt0419058,153.0,Jun,7.3,29070.0
+Matru Ki Bijlee Ka Mandola,tt2106537,151.0,Jan,5.6,6392.0
+Anjaana Anjaani,tt1499201,151.0,Oct,5.7,7578.0
+Bhagam Bhag,tt0805184,157.0,Dec,6.7,16253.0
+Love Aaj Kal,tt1275863,128.0,Jul,6.8,17340.0
+Yaariyan,tt3382148,145.0,Jan,2.8,3834.0
+Shamshera,tt8426926,178.0,Jul,4.7,57406.0
+Aarakshan,tt1848771,164.0,Aug,6.2,5997.0
+Antim: The Final Truth,tt13491110,138.0,Nov,6.2,42375.0
+Ek Main Aur Ekk Tu,tt1703958,110.0,Feb,5.8,7408.0
+Border,tt5501104,110.0,Oct,7.0,36168.0
+Bhoothnath Returns,tt3531852,155.0,Apr,6.5,6575.0
+Tevar,tt3398048,157.0,Jan,4.2,3455.0
+Kal Ho Naa Ho,tt0347304,186.0,Nov,7.9,77007.0
+Khatta Meetha,tt1455811,157.0,Jul,6.0,13101.0
+Blue,tt0090756,120.0,Oct,7.7,233096.0
+Cirkus,tt11112808,139.0,Dec,4.4,23884.0
+A Flying Jatt,tt5235880,151.0,Aug,3.1,5687.0
+Ta Ra Rum Pum,tt0833553,153.0,Apr,5.7,5768.0
+Hasee Toh Phasee,tt3173910,141.0,Feb,6.8,16678.0
+Main Hoon Na,tt0347473,182.0,Apr,7.1,41437.0
+MOM,tt2660806,30.0,Sep,7.4,41588.0
+Namastey London,tt0795434,128.0,Mar,7.1,23329.0
+Shaadi Ke Side Effects,tt3302962,145.0,Feb,5.6,4289.0
+Naam Shabana,tt6170954,147.0,Mar,6.2,7654.0
+Tanu Weds Manu,tt1694542,113.0,Feb,6.8,16853.0
+Bachna Ae Haseeno,tt1182972,152.0,Aug,6.2,13051.0
+Thank God,tt13795296,121.0,Oct,5.6,12538.0
+Fukrey,tt2806788,139.0,Jun,6.9,13632.0
+Mastizaade,tt3726012,119.0,Jan,2.4,3080.0
+Bunty Aur Babli,tt0448206,170.0,May,6.2,8508.0
+Tumhari Sulu,tt6791730,150.0,Nov,7.0,5583.0
+Bullett Raja,tt2551378,138.0,Nov,4.9,4159.0
+Ramaiya Vastavaiya,tt2357926,148.0,Jul,5.8,4886.0
+Ghayal Once Again,tt4683366,127.0,Feb,6.2,5458.0
+Force 2,tt5156746,127.0,Nov,6.2,6154.0
+Mardaani,tt3495000,113.0,Aug,7.3,13650.0
+Finding Fanny,tt3142688,102.0,Sep,5.7,6787.0
+Runway 34,tt11460992,145.0,Apr,7.0,31205.0
+Vicky Donor,tt2317337,126.0,Apr,7.7,45945.0
+Badmaash Company,tt1602476,142.0,May,6.1,7986.0
+Chhapaak,tt9614460,120.0,Jan,5.4,27804.0
+Dil To Pagal Hai,tt0118983,180.0,Oct,7.0,24940.0
+English Vinglish,tt2181931,134.0,Oct,7.8,40807.0
+Judgementall Hai Kya,tt8108196,121.0,Jul,5.9,7060.0
+Hamari Adhuri Kahani,tt3483612,129.0,Jun,6.7,6991.0
+Lagaan: Once Upon a Time in India,tt0169102,224.0,Jun,8.1,122152.0
+Sarkar Raj,tt0490210,125.0,Jun,6.7,7920.0
+Yamla Pagla Deewana 2,tt2510874,154.0,Jun,3.5,2138.0
+Panipat,tt8176040,171.0,Dec,5.2,6195.0
+Hero,tt0299977,107.0,Aug,7.9,190575.0
+Bell Bottom,tt9430780,130.0,Feb,8.2,2686.0
+Azhar,tt4906984,130.0,May,5.7,6061.0
+Kill Dil,tt3380264,127.0,Nov,4.5,4527.0
+Dhamaal,tt0845448,136.0,Sep,7.5,19863.0
+Kahaani 2,tt5477608,127.0,Dec,6.5,6222.0
+Ladies vs Ricky Bahl,tt1954598,140.0,Dec,6.0,10856.0
+Uunchai,tt15309708,173.0,Nov,7.0,7573.0
+Munna Michael,tt6117702,140.0,Jul,3.4,4015.0
+Ghanchakkar,tt2246724,137.0,Jul,5.9,5339.0
+Jai Gangaajal,tt4979082,149.0,Mar,5.8,2603.0
+Rascals,tt1830786,128.0,Oct,3.0,3160.0
+Jolly LLB,tt2621000,135.0,Mar,7.5,22727.0
+Soorma,tt7690638,131.0,Jul,7.3,5781.0
+Commando 3,tt8983168,133.0,Nov,5.9,4596.0
+Shehzada,tt13130948,142.0,Feb,4.5,31748.0
+Dhoom,tt0422091,129.0,Aug,6.6,23663.0
+Karthikeya 2,tt13664684,150.0,Aug,7.9,64535.0
+Baar Baar Dekho,tt5197544,141.0,Sep,5.4,7844.0
+Vivah,tt0494290,160.0,Nov,6.7,11118.0
+Patiala House,tt1535467,140.0,Feb,5.6,9700.0
+Bhoot Part One,tt10463030,114.0,Feb,5.4,6032.0
+Jab We Met,tt1093370,138.0,Oct,7.9,60625.0
+Highway,tt2980794,133.0,Feb,7.6,31758.0
+Thappad,tt10964430,142.0,Feb,7.0,27133.0
+Talvar,tt4934950,132.0,Oct,8.1,38990.0
+Delhi-6,tt1043451,141.0,Feb,6.2,8765.0
+Raaz Reboot,tt5639388,128.0,Sep,4.4,2185.0
+Peepli Live,tt1447508,95.0,Aug,7.4,12960.0
+Paa,tt1532957,133.0,Dec,7.1,12852.0
+Jism 2,tt2226666,130.0,Aug,3.1,3693.0
+Ittefaq,tt6692354,105.0,Nov,7.2,15211.0
+Dum Laga Ke Haisha,tt13322956,109.0,Nov,8.0,83.0
+Jannat,tt8843162,,Aug,5.8,34.0
+Thor: Love And Thunder,tt10648342,118.0,Jul,6.2,436594.0
+Golmaal: Fun Unlimited,tt0495034,150.0,Jul,7.5,19937.0
+Mausam,tt1627924,161.0,Sep,4.8,5699.0
+Shootout at Lokhandwala,tt0811066,122.0,May,7.1,11047.0
+Tashan,tt0995752,120.0,Apr,3.8,5916.0
+Mujhse Shaadi Karogi,tt0418362,163.0,Jul,6.7,17362.0
+Guzaarish,tt1438298,126.0,Nov,7.4,19992.0
+Action Replayy,tt1396208,129.0,Nov,4.3,7328.0
+Garam Masala,tt0453671,146.0,Nov,6.8,17604.0
+Lootera,tt0357875,145.0,Sep,6.5,29.0
+Dil Toh Baccha Hai Ji,tt1727496,143.0,Jan,5.9,4288.0
+Ferrari Ki Sawaari,tt2122340,140.0,Jun,6.4,6011.0
+Happy Bhaag Jayegi,tt5472758,126.0,Aug,6.4,5833.0
+Akira,tt0094625,124.0,Jul,8.0,216679.0
+Pari,tt7329858,136.0,Mar,6.6,7353.0
+Players,tt14833464,105.0,Feb,5.7,11609.0
+London Dreams,tt0486615,146.0,Oct,5.4,4978.0
+PM Narendra Modi,tt9558612,136.0,May,3.0,8954.0
+Doctor Strange In The Multiverse Of Madness,tt9419884,126.0,May,6.9,520759.0
+Ishqiya,tt1345777,118.0,Jan,7.3,11059.0
+Baazaar,tt6514196,137.0,Oct,6.5,6293.0
+Kyaa Kool Hain Hum 3,tt5290620,124.0,Jan,2.0,4558.0
+Doctor G,tt9054970,124.0,Oct,6.6,18891.0
+No Problem,tt1431122,139.0,Dec,4.5,3078.0
+Wake Up Sid,tt1324059,138.0,Oct,7.6,35031.0
+No One Killed Jessica,tt1734110,136.0,Jan,7.2,12534.0
+Sanam Re,tt4262516,120.0,Feb,3.3,3583.0
+Panga,tt8983166,131.0,Jan,6.8,7999.0
+Dedh Ishqiya,tt2675978,152.0,Jan,7.0,7561.0
+Sarbjit,tt5120640,131.0,May,7.3,5588.0
+Force,tt1992138,137.0,Sep,6.5,8555.0
+Jawaani Jaaneman,tt9248952,119.0,Jan,6.5,8585.0
+Jhoom Barabar Jhoom,tt0833476,138.0,Jun,3.7,3539.0
+Hate Story 2,tt3619772,130.0,Jul,4.4,2471.0
+Detective Byomkesh Bakshy,tt3447364,139.0,Apr,7.6,24626.0
+Tadap,tt10761694,126.0,Dec,5.1,4885.0
+Malamaal Weekly,tt0476805,137.0,Mar,7.0,8181.0
+Raja Natwarlal,tt3483712,141.0,Aug,6.2,4606.0
+Singh Saab The Great,tt2437954,134.0,Nov,5.6,2542.0
+Ek Paheli Leela,tt4500734,145.0,Apr,3.8,1924.0
+Fashion,tt0964516,167.0,Oct,6.9,13380.0
+The Hero: Love Story of a Spy,tt0347167,160.0,Apr,5.5,2660.0
+Salaam Namaste,tt0456165,158.0,Sep,6.2,8328.0
+Khakee,tt0347332,174.0,Jan,7.4,16868.0
+Karan Arjun,tt0113526,175.0,Jan,6.8,16327.0
+Karthik Calling Karthik,tt1373156,135.0,Feb,7.1,14429.0
+Raabta,tt5542802,147.0,Jun,4.8,8759.0
+Dhobi Ghat,tt8843396,,Mar,,
+Biwi No.1,tt0207341,159.0,May,5.7,6658.0
+Maine Pyaar Kyun Kiya?,tt0451803,145.0,Jul,5.6,5952.0
+Ek Thi Daayan,tt2406676,135.0,Apr,5.7,4659.0
+Teri Meri Kahaani,tt2354407,117.0,Jun,4.9,4357.0
+F.A.L.T.U,tt1667076,120.0,Apr,4.8,3277.0
+Daawat-E-Ishq,tt3398052,118.0,Sep,6.1,6218.0
+Jazbaa,tt4323504,119.0,Oct,5.7,3712.0
+Rock On!!,tt1230165,145.0,Aug,7.7,23015.0
+Commando 2,tt5954088,144.0,Mar,5.4,4025.0
+Rocky Handsome,tt3410408,119.0,Mar,6.8,9254.0
+Gangs of Wasseypur,tt1954470,321.0,Jun,8.2,106403.0
+Go Goa Gone,tt2436516,111.0,May,6.7,15740.0
+Jaan-E-Mann,tt0456481,165.0,Oct,6.1,9309.0
+Ishq,tt0133024,161.0,Nov,6.8,12119.0
+Junglee,tt7463730,115.0,Mar,5.5,2337.0
+Sarkar,tt7715202,163.0,Nov,6.7,23180.0
+Katti Batti,tt4467262,135.0,Sep,4.7,3301.0
+Mr. X,tt3848938,133.0,Apr,3.7,2405.0
+Khoobsurat,tt3554418,130.0,Sep,6.4,9288.0
+Indian,tt0116630,185.0,May,8.1,15423.0
+Enthiran,tt1305797,174.0,Oct,7.1,31156.0
+D Day,tt2385104,153.0,Jul,7.2,10371.0
+Bombay Velvet,tt2979920,149.0,May,5.5,6527.0
+Saand Ki Aankh,tt8108206,146.0,Oct,7.5,6101.0
+Bhoothnath,tt0991346,150.0,May,6.4,11813.0
+OK Jaanu,tt5764024,135.0,Jan,5.3,5104.0
+Lakshya,tt0323013,186.0,Jun,7.8,26869.0
+Dil Bole Hadippa!,tt1202540,148.0,Sep,4.7,4805.0
+Thackeray,tt7777196,120.0,Jan,5.4,3808.0
+Dus,tt13782010,,,,162.0
+Omkara,tt0488414,155.0,Jul,8.0,22379.0
+Black,tt0375611,122.0,Feb,8.1,36621.0
+Munna Bhai M.B.B.S.,tt0374887,156.0,Dec,8.1,91098.0
+36 China Town,tt0477252,140.0,May,5.8,5491.0
+Mission Kashmir,tt0248185,154.0,Oct,6.6,7748.0
+Pardes,tt0119861,191.0,Dec,6.9,16392.0
+Billu,tt1230448,137.0,Feb,6.4,13974.0
+Kismat Konnection,tt1105733,153.0,Jul,5.3,6195.0
+1920 - Evil Returns,tt2222550,124.0,Nov,4.9,2425.0
+Mere Baap Pehle Aap,tt1170404,163.0,Jun,5.5,2659.0
+Joker,tt7286456,122.0,Oct,8.3,1619842.0
+Murder 3,tt2429640,124.0,Feb,5.0,2892.0
+Ek Ladki Ko Dekha Toh Aisa Laga,tt8108164,120.0,Feb,5.6,4862.0
+Mrs Chatterjee Vs Norway,tt14295590,144.0,Mar,7.3,10512.0
+Chandigarh Kare Aashiqui,tt12861850,117.0,Dec,6.7,15493.0
+Saawariya,tt0758053,142.0,Nov,5.2,8510.0
+Shamitabh,tt3836958,155.0,Feb,6.7,7992.0
+Taal,tt0152836,179.0,Aug,6.6,6112.0
+Aurangzeb,tt2804026,137.0,May,6.4,4522.0
+Rocketry: The Nambi Effect,tt9263550,157.0,Jul,8.7,60208.0
+Happy Phirr Bhag Jayegi,tt7881542,136.0,Aug,4.5,1518.0
+Roohi,tt10098288,134.0,Mar,4.3,11171.0
+Apne,tt0814014,173.0,Jun,6.1,3610.0
+Black Adam,tt6443346,125.0,Oct,6.2,292391.0
+Jurassic World: Dominion,tt8041270,147.0,Jun,5.6,230644.0
+"Saheb, Biwi Aur Gangster Returns",tt2362778,142.0,Mar,6.7,4184.0
+Black Panther: Wakanda Forever,tt9114286,161.0,Nov,6.6,333961.0
+Nautanki Saala,tt2341766,119.0,Apr,5.8,4509.0
+Pyaar To Hona Hi Tha,tt0173081,156.0,Jul,6.6,3704.0
+Heropanti 2,tt11873440,145.0,Apr,2.3,27743.0
+Hum Tum,tt0378072,143.0,May,7.0,15331.0
+Raaz,tt0307873,151.0,Feb,6.6,4280.0
+Soldier,tt0120157,99.0,Oct,6.1,61551.0
+Mulk,tt7618184,140.0,Aug,7.2,21854.0
+Baghban,tt0337578,181.0,Oct,7.4,17875.0
+Luck,tt7214954,105.0,Aug,6.4,33032.0
+Rangoon,tt4909752,170.0,Feb,5.6,5132.0
+U Me Aur Hum,tt1039995,156.0,Apr,5.8,2700.0
+A Gentleman,tt5613834,145.0,Aug,6.3,7723.0
+Newton,tt6484982,106.0,Sep,7.6,21546.0
+Jersey,tt8948790,157.0,Apr,8.5,24116.0
+Life Partner,tt1229366,138.0,Aug,5.3,1452.0
+Blackmail,tt6972140,138.0,Apr,7.2,12638.0
+Rangeela,tt0114234,142.0,Sep,7.4,10707.0
+Karwaan,tt7919680,114.0,Aug,7.6,18343.0
+The Ghazi Attack,tt6299040,116.0,Feb,7.5,14926.0
+Dil Chahta Hai,tt0292490,183.0,Aug,8.1,76921.0
+Rocket Singh: Salesman of the Year,tt1434447,150.0,Dec,7.5,22603.0
+Kaante,tt0294662,150.0,Dec,6.6,5585.0
+Masti,tt0406977,166.0,Apr,6.2,7142.0
+Waqt: The Race Against Time,tt0390614,153.0,Apr,6.7,10237.0
+The Accidental Prime Minister,tt6986710,112.0,Jan,6.0,8237.0
+The Sky Is Pink,tt8902990,143.0,Oct,7.6,10002.0
+Kidnap,tt1458169,95.0,Aug,5.9,40323.0
+Raja,tt0114230,168.0,,5.0,1055.0
+The Lunchbox,tt2350496,104.0,Sep,7.8,62347.0
+Sunday,tt1039989,135.0,Jan,5.5,3000.0
+Hulchul,tt0437238,149.0,Nov,7.0,9583.0
+Tere Naal Love Ho Gaya,tt2130242,130.0,Feb,5.9,4644.0
+Badhaai Do,tt11934846,147.0,Feb,7.0,21663.0
+Krazzy 4,tt1182908,110.0,Apr,4.2,2344.0
+Chance Pe Dance,tt1392744,122.0,Jan,4.8,3124.0
+Agni Sakshi,tt0115484,142.0,Mar,6.2,793.0
+Radhe Shyam,tt8960382,138.0,Mar,5.2,32479.0
+Ungli,tt2392447,114.0,Nov,5.8,4242.0
+Fitoor,tt4399594,131.0,Feb,5.4,5417.0
+Chalte Chalte,tt0346723,167.0,Jun,6.5,16993.0
+Alone,tt7711170,98.0,Sep,6.2,31488.0
+Lipstick Under My Burkha,tt4807830,117.0,Sep,6.8,7413.0
+Te3n,tt4814290,136.0,Jun,7.2,13995.0
+Dolly Ki Doli,tt4332114,98.0,Jan,4.6,3228.0
+Bade Miyan Chote Miyan,tt18072316,163.0,Apr,3.8,38814.0
+Barsaat,tt0112459,166.0,Oct,5.6,1441.0
+Kaal,tt0415908,126.0,Apr,4.7,6140.0
+Dulhan Hum Le Jayenge,tt0247992,158.0,Jan,5.1,3946.0
+Jabariya Jodi,tt8785426,125.0,Aug,4.0,1862.0
+Sarfarosh,tt0200087,174.0,Apr,8.1,27563.0
+Jodi No.1,tt3425064,135.0,Mar,,5.0
+Liger,tt4435072,140.0,Aug,2.6,48069.0
+Chori Chori Chupke Chupke,tt0256692,165.0,Mar,5.5,5416.0
+Madaari,tt5713232,133.0,Jul,7.6,15363.0
+Ziddi,tt0120551,170.0,Apr,5.9,1838.0
+Bluffmaster!,tt0476527,137.0,Dec,6.6,6831.0
+Gupt: The Hidden Truth,tt0119239,173.0,Aug,7.3,5802.0
+Pyaar Kiya To Darna Kya,tt0173080,162.0,Mar,6.6,6131.0
+Jayeshbhai Jordaar,tt10393870,121.0,May,6.0,44134.0
+Begum Jaan,tt5785116,128.0,Apr,5.6,3018.0
+Josh,tt0151150,162.0,Jun,6.1,11238.0
+Fool n Final,tt0493417,144.0,Jun,3.6,2339.0
+Main Prem Ki Diwani Hoon,tt0265148,197.0,Jun,3.8,5213.0
+Creature,tt0088961,95.0,Mar,4.4,4822.0
+Break Ke Baad,tt1578261,118.0,Nov,5.2,4641.0
+Aankhen,tt0306434,165.0,Apr,7.4,14157.0
+7 Khoon Maaf,tt1629376,137.0,Feb,6.3,6837.0
+Qayamat: City Under Threat,tt0364621,180.0,Jul,4.8,2599.0
+Attack - Part 1,tt21363292,,Jan,,8.0
+Laaga Chunari Mein Daag,tt0985636,122.0,Oct,5.4,2746.0
+Simran,tt6405126,124.0,Sep,5.2,4559.0
+Baabul,tt0419468,169.0,Dec,5.4,3656.0
+Mujhe Kucch Kehna Hai,tt0284328,135.0,May,4.8,1297.0
+Cheeni Kum,tt0976026,140.0,May,6.8,5730.0
+Band Baaja Baaraat,tt1610452,139.0,Dec,7.2,18508.0
+Ajnabee,tt0278291,165.0,Sep,6.3,9306.0
+Selfiee,tt15516726,148.0,Feb,5.7,13845.0
+Aiyaary,tt6774212,157.0,Feb,5.3,5298.0
+Refugee,tt0250690,207.0,Jun,5.2,2199.0
+Bombay Talkies,tt2797242,127.0,May,6.6,5842.0
+Hero No. 1,tt0119285,134.0,Feb,6.3,3512.0
+Section 375,tt8144834,124.0,Sep,8.1,18621.0
+Bewafaa,tt0363472,151.0,Feb,4.1,2647.0
+Hum Aapke Dil Mein Rehte Hain,tt0189592,168.0,Jan,5.5,1838.0
+Qarib Qarib Singlle,tt10944632,4.0,Feb,7.4,9.0
+Yuvvraaj,tt1105747,151.0,Nov,4.1,4773.0
+Do Knot Disturb,tt1343362,126.0,Oct,3.7,1288.0
+Parineeta,tt0437407,130.0,Jun,7.2,9716.0
+Mumbai Saga,tt10483386,135.0,Mar,5.8,9991.0
+Jeet,tt0116690,180.0,Aug,5.8,2730.0
+Humraaz,tt0326576,173.0,Jul,6.4,3927.0
+The Tashkent Files,tt8108268,134.0,Apr,8.1,36304.0
+Awara Paagal Deewana,tt0319020,158.0,Jun,6.3,9622.0
+Kachche Dhaage,tt0206067,144.0,Feb,6.0,1763.0
+Swades,tt0367110,189.0,Dec,8.2,100779.0
+1921,tt6958030,144.0,Jan,4.3,1552.0
+Andaaz,tt0346507,145.0,May,5.2,2791.0
+All Is Well,tt3547616,126.0,Aug,3.6,1707.0
+Dhol,tt0995035,145.0,Sep,6.5,8030.0
+Lajja,tt0293342,202.0,Aug,6.6,2927.0
+Life in a Metro,tt0800956,132.0,May,7.4,13242.0
+Aitraaz,tt0418460,160.0,Nov,6.6,11066.0
+Kyaa Kool Hai Hum,tt0456500,172.0,May,6.1,3997.0
+Sholay,tt0073707,162.0,Aug,8.1,60568.0
+1920 London,tt5638500,120.0,May,4.2,2047.0
+8 x 10 Tasveer,tt1105709,122.0,Apr,5.4,6235.0
+Apaharan,tt0451631,173.0,Dec,7.4,5304.0
+Tezz,tt1706317,121.0,Apr,4.1,2652.0
+Har Dil Jo Pyar Karega,tt0250415,173.0,Aug,5.1,4939.0
+Guardians of the Galaxy Vol. 3,tt6791350,150.0,May,7.9,437309.0
+Badal,tt0247944,166.0,Feb,5.0,1563.0
+Deewane Huye Paagal,tt0444781,158.0,Nov,5.6,6056.0
+Tere Naam,tt11047176,160.0,Jun,,5.0
+Dev.D,tt1327035,144.0,Feb,7.9,32649.0
+Saathiya,tt0330843,138.0,Dec,6.8,7905.0
+Ghatak,tt4771744,135.0,,7.3,170.0
+Mela,tt0232079,172.0,Jan,3.7,5046.0
+Zanjeer,tt0070947,145.0,May,7.5,4267.0
+Haseena Maan Jaayegi,tt0267548,147.0,Jun,6.3,3772.0
+Murder,tt3402236,114.0,Nov,6.5,312718.0
+Baadshah,tt0211934,175.0,Aug,6.9,20759.0
+Koyla,tt0136352,166.0,Apr,6.2,10031.0
+Jhund,tt8983228,176.0,Mar,7.4,25921.0
+Freaky Ali,tt5943306,120.0,Sep,5.0,3032.0
+Hamara Dil Aapke Paas Hai,tt0255212,165.0,Aug,5.5,2086.0
+Fiza,tt0248012,170.0,Sep,6.0,4541.0
+Gulaab Gang,tt2573750,139.0,Mar,6.0,2237.0
+Khiladiyon Ka Khiladi,tt0246729,162.0,Jun,6.0,6268.0
+Maine Pyar Kiya,tt0100095,192.0,Dec,7.3,13289.0
+Bhoot,tt0341266,113.0,May,6.4,4215.0
+Apna Sapna Money Money,tt0493437,134.0,Nov,5.4,2347.0
+Humko Deewana Kar Gaye,tt0444840,155.0,Apr,5.2,4430.0
+Satyameva Jayate 2,tt10739666,138.0,Nov,3.4,16217.0
+Yuva,tt0382383,161.0,May,7.3,9490.0
+Satya,tt0195231,170.0,Jul,8.3,17207.0
+Teraa Surroor,tt5056470,106.0,Mar,2.7,981.0
+Dhadkan,tt0255111,161.0,Aug,6.5,8272.0
+Hindustan Ki Kasam,tt0207513,146.0,Jul,3.5,695.0
+Bewakoofiyaan,tt3483646,119.0,Mar,5.5,4611.0
+Judaai,tt0119427,167.0,Feb,6.1,2972.0
+Bandit Queen,tt0109206,119.0,Jun,7.5,5448.0
+Hum Tumhare Hain Sanam,tt0222024,174.0,May,5.4,7428.0
+Ant-Man and the Wasp: Quantumania,tt10954600,124.0,Feb,6.0,252231.0
+Dhan Dhana Dhan Goal,tt1120897,167.0,Nov,5.1,2919.0
+Great Grand Masti,tt4675030,134.0,Jul,3.7,3313.0
+Saajan Chale Sasural,tt0246905,134.0,Apr,5.9,1619.0
+Company,tt0296574,142.0,Apr,8.0,16374.0
+Chup Chup Ke,tt0464160,164.0,Jun,7.0,13541.0
+Aankhen,tt0306434,165.0,Apr,7.4,14157.0
+Deewana Mastana,tt0118957,140.0,Sep,6.7,2915.0
+Hunterrr,tt4333674,141.0,Mar,7.0,6877.0
+Hate Story,tt2309987,140.0,Apr,5.3,4067.0
+Babumoshai Bandookbaaz,tt6711660,122.0,Aug,6.9,2564.0
+Ghulam,tt0190419,162.0,Jun,7.2,12337.0
+India's Most Wanted,tt8484942,123.0,May,4.7,2390.0
+Bbuddah...Hoga Terra Baap,tt1869296,114.0,Jul,5.6,3053.0
+Maa Tujhhe Salaam,tt0307116,162.0,Jan,3.7,1351.0
+Judwaa,tt0119428,138.0,Feb,6.1,7378.0
+Paheli,tt0451850,140.0,Jun,6.4,14491.0
+Shaadi Mein Zaroor Aana,tt7469726,137.0,Nov,7.5,18042.0
+Major Saab,tt0172761,165.0,Jun,5.3,2358.0
+Major,tt9851854,150.0,Jun,8.1,33557.0
+Ujda Chaman,tt11046300,120.0,Nov,6.9,5699.0
+Phone Bhoot,tt12740760,136.0,Nov,5.2,11061.0
+Mujhse Dosti Karoge!,tt0272736,149.0,Aug,5.1,6699.0
+China Gate,tt0210609,175.0,Nov,6.6,1933.0
+Halla Bol,tt0892874,142.0,Jan,6.0,2431.0
+Dulhe Raja,tt0210659,143.0,Jul,6.8,3400.0
+Kyon Ki,tt0451787,160.0,Nov,5.5,5015.0
+Gangster,tt0495032,123.0,Apr,7.2,6816.0
+Coolie No. 1,tt10280276,134.0,Dec,4.2,74392.0
+Manjhi - The Mountain Man,tt3449292,120.0,Aug,8.0,20272.0
+God Tussi Great Ho,tt0476550,152.0,Aug,3.7,5074.0
+Heroes,tt0813715,45.0,Sep,7.5,257154.0
+Hungama,tt0371735,153.0,Aug,7.6,17227.0
+Hera Pheri,tt0242519,156.0,Mar,8.2,75076.0
+Made In China,tt8983180,128.0,Oct,6.2,5128.0
+Mere Dad Ki Maruti,tt2323964,101.0,Mar,6.4,4953.0
+Kya Kehna,tt0250483,155.0,May,5.8,2341.0
+Mohra,tt0110546,177.0,Jul,7.0,8828.0
+Khalnayak,tt0107311,190.0,Jun,7.1,3897.0
+Bandhan,tt0273452,154.0,Oct,4.8,2229.0
+Bunty Aur Babli 2,tt10569922,138.0,Nov,4.1,4429.0
+Paan Singh Tomar,tt1620933,135.0,Mar,8.2,38555.0
+Yamla Pagla Deewana Phir Se,tt7609114,145.0,Aug,4.4,1400.0
+Fanney Khan,tt6384386,130.0,Aug,4.5,2372.0
+Pyare Mohan,tt0461323,130.0,Apr,3.4,994.0
+Chup,tt15654262,135.0,Sep,7.5,25872.0
+Ek Aur Ek Gyarah,tt0359213,153.0,Dec,6.4,61.0
+Ab Tumhare Hawale Watan Saathiyo,tt0397882,193.0,Dec,4.5,1850.0
+Bobby Jasoos,tt3359290,121.0,Jul,5.5,2456.0
+Chal Mere Bhai,tt0245825,136.0,May,4.7,3765.0
+Beta,tt0101437,171.0,Apr,6.2,2495.0
+A Wednesday!,tt1280558,104.0,Sep,8.1,84399.0
+Loveyatri,tt9038930,3.0,Aug,4.0,130.0
+Asoka,tt0249371,180.0,Oct,6.4,15508.0
+Arjun Pandit,tt0278315,150.0,Aug,5.4,1091.0
+Deewangee,tt0337971,169.0,Oct,6.5,3046.0
+Vaastav: The Reality,tt0220832,145.0,Oct,8.0,15081.0
+Chachi 420,tt0233422,155.0,Dec,7.4,13862.0
+An Action Hero,tt15600222,130.0,Dec,7.0,32711.0
+Poster Boys,tt6352548,128.0,Sep,5.4,1739.0
+Daag: The Fire,tt0272062,152.0,Feb,4.8,796.0
+Virasat,tt0120456,165.0,May,7.4,2965.0
+Lucknow Central,tt5697870,133.0,Sep,6.2,3064.0
+Yes Boss,tt0120540,163.0,Jul,6.7,14775.0
+Hadh Kar Di Aapne,tt0244528,134.0,Apr,5.3,2197.0
+Vikrant Rona,tt12015102,148.0,Jul,6.9,28938.0
+Sye Raa Narasimha Reddy,tt7283064,167.0,Oct,7.2,8836.0
+Kurukshetra,tt7968456,185.0,Aug,6.2,1667.0
+Why Cheat India,tt8108208,121.0,Jan,6.1,3026.0
+Darr,tt0109555,178.0,Dec,7.6,26141.0
+Zameen,tt0382385,154.0,Sep,5.4,1722.0
+Jaani Dushman: Ek Anokhi Kahani,tt0326983,170.0,Aug,2.7,4065.0
+Jhootha Hi Sahi,tt1322257,142.0,Oct,6.2,2072.0
+Table No. 21,tt2229842,108.0,Jan,7.2,14620.0
+Guest iin London,tt6173826,132.0,Jul,5.4,2589.0
+Jaanwar,tt0230347,172.0,Dec,5.9,3074.0
+Dil Se..,tt0164538,163.0,Aug,7.5,32231.0
+Kunwara,tt0253194,134.0,Jul,5.2,1129.0
+Phir Bhi Dil Hai Hindustani,tt0222270,160.0,Jan,6.1,8841.0
+Nayak: The Real Hero,tt0291376,187.0,Sep,7.8,18213.0
+Tumko Na Bhool Paayenge,tt0310254,160.0,Feb,5.6,3415.0
+Rock On 2,tt2137241,143.0,Nov,4.9,2314.0
+Bichhoo,tt0252277,160.0,Jul,5.0,3185.0
+John Wick: Chapter 4,tt10366206,169.0,Mar,7.6,386853.0
+Hello Brother,tt0233856,139.0,Sep,4.7,4803.0
+Gangaajal,tt0373856,157.0,Aug,7.8,18507.0
+Wajah Tum Ho,tt5638474,136.0,Dec,4.4,1433.0
+Albela,tt0118578,145.0,Apr,3.7,856.0
+1920,tt1301698,143.0,Sep,6.4,4262.0
+Paltan,tt7162758,150.0,Sep,5.2,1226.0
+Revolver Rani,tt3290688,132.0,Apr,4.6,2012.0
+Bheja Fry 2,tt1939654,129.0,Jun,4.8,1477.0
+Vikram,tt9179430,175.0,Jun,8.3,79601.0
+Firangi,tt7549484,158.0,Dec,4.3,1359.0
+Angrezi Medium,tt8907986,145.0,Mar,7.2,18664.0
+Saheb Biwi Aur Gangster,tt2073070,118.0,Sep,7.1,4429.0
+Tumbbad,tt8239946,108.0,Oct,8.2,68697.0
+Pataakha,tt8396128,134.0,Sep,7.2,4472.0
+Anari No.1,tt0200435,169.0,Apr,5.1,726.0
+Hogi Pyaar Ki Jeet,tt0281913,180.0,May,4.5,607.0
+Shaadi Se Pehle,tt0489560,122.0,Apr,4.3,871.0
+Fida,tt0422236,122.0,Aug,5.4,2922.0
+Tera Jadoo Chal Gayaa,tt0250774,143.0,Aug,3.1,639.0
+Ragini MMS,tt1890513,93.0,May,5.1,2893.0
+Love Sex aur Dhokha,tt1608777,155.0,Mar,7.1,6310.0
+Jaan,tt0151090,170.0,Mar,4.3,676.0
+Phoonk,tt1267500,110.0,Aug,4.0,1422.0
+Welcome to Sajjanpur,tt1221139,133.0,Sep,6.9,3372.0
+Sabse Bada Khiladi,tt0114317,162.0,Jun,5.9,4655.0
+Saajan,tt0102825,193.0,Aug,7.2,7579.0
+Aap Mujhe Achche Lagne Lage,tt0247911,180.0,Apr,3.1,2798.0
+Aan: Men at Work,tt0363409,149.0,Jun,5.8,3373.0
+Aksar 2,tt5784860,127.0,Nov,3.6,499.0
+Krantiveer,tt0110280,147.0,Jul,7.4,2323.0
+Sanam Teri Kasam,tt5255710,154.0,Feb,7.6,21387.0
+Diljale,tt0286593,159.0,Sep,5.8,1933.0
+Ajay,tt0267252,146.0,Dec,4.1,263.0
+Anek,tt13919802,147.0,May,6.4,22667.0
+Julie,tt0049388,99.0,Oct,6.2,2260.0
+Namaste England,tt7607940,141.0,Oct,2.1,3017.0
+Pal Pal Dil Ke Paas,tt6978954,154.0,Sep,4.5,1329.0
+Drona,tt11178862,157.0,Mar,6.9,59.0
+Haan Maine Bhi Pyaar Kiya,tt0308347,174.0,Feb,3.6,1504.0
+Bhai,tt0135161,147.0,Oct,5.3,516.0
+International Khiladi,tt0196635,175.0,Mar,4.8,2450.0
+HIT – The First Case,tt13130760,132.0,Jul,6.8,16943.0
+Dil Kya Kare,tt0216707,158.0,Sep,5.1,1335.0
+Banjo,tt5755606,137.0,Sep,5.0,1242.0
+Bheja Fry,tt1014672,95.0,Apr,7.6,12357.0
+Tujhe Meri Kasam,tt0348258,155.0,Jan,6.2,512.0
+Arjun Patiala,tt7881524,107.0,Jul,4.3,1646.0
+Guddu Rangeela,tt4684028,124.0,Jul,5.3,973.0
+Dosti: Friends Forever,tt0449228,136.0,Dec,5.3,2758.0
+Luv Shuv Tey Chicken Khurana,tt2186933,140.0,Nov,6.6,4074.0
+Ghayal,tt0099652,163.0,Jun,7.7,5271.0
+Saudagar,tt0102844,213.0,Aug,6.7,1656.0
+Godfather,tt13130308,157.0,Oct,5.1,7912.0
+Trimurti,tt0114726,187.0,Dec,4.8,3050.0
+Khoobsurat,tt3554418,130.0,Sep,6.4,9288.0
+Aksar,tt0476729,135.0,Feb,5.0,1431.0
+Dhaai Akshar Prem Ke,tt0255112,167.0,Sep,3.5,1502.0
+Shikara,tt10930586,118.0,Feb,3.4,15452.0
+Sita Ramam,tt20850406,163.0,Aug,8.5,72333.0
+B.A. Pass,tt2408040,95.0,Aug,6.4,4339.0
+Mere Yaar Ki Shaadi Hai,tt0322653,158.0,Jun,5.5,2519.0
+Welcome 2 Karachi,tt4023852,131.0,May,4.3,1396.0
+Daddy,tt6926486,134.0,Sep,6.4,2202.0
+Mard,tt0089552,177.0,Nov,6.2,2144.0
+Raja Babu,tt0110942,161.0,Jan,6.4,3239.0
+Jism,tt0348843,136.0,Jan,5.3,2387.0
+Varisu,tt11998558,169.0,Jan,5.9,40315.0
+Tango Charlie,tt0444913,142.0,Mar,6.1,2345.0
+Main Khiladi Tu Anari,tt0110438,175.0,Sep,6.5,6558.0
+Talaash: The Hunt Begins...,tt0338477,153.0,Jan,4.3,1613.0
+Ram Gopal Varma Ki Aag,tt0473310,171.0,Aug,1.4,7144.0
+Kyo Kii Main Jhuth Nahin Bolta,tt0297241,131.0,Sep,5.4,2670.0
+Eternals,tt9032400,156.0,Nov,6.2,410197.0
+Gumraah,tt11905536,130.0,Apr,6.5,6844.0
+Ishq Vishk,tt0362771,134.0,May,6.1,4664.0
+Yeh Raaste Hain Pyaar Ke,tt0292740,149.0,Aug,4.0,834.0
+Tere Mere Sapne,tt0117878,146.0,Dec,6.2,548.0
+Dus Kahaniyaan,tt0823451,110.0,Dec,5.7,1723.0
+Kaalakaandi,tt6102396,112.0,Jan,6.2,3360.0
+One Two Three,tt0055256,104.0,Dec,7.8,23993.0
+Kya Yehi Pyaar Hai,tt0312883,145.0,Apr,4.2,543.0
+777 Charlie,tt7466810,164.0,Jun,8.7,44002.0
+Joru Ka Ghulam,tt0250452,169.0,Jun,5.1,1322.0
+Jis Desh Mein Ganga Rehta Hain,tt0263491,141.0,Oct,4.9,1413.0
+Road,tt1392190,120.0,May,8.1,1174439.0
+IB 71,tt15073166,117.0,May,7.1,11208.0
+Bank Chor,tt3611266,120.0,Jun,5.9,3185.0
+The Legend of Bhagat Singh,tt0319736,155.0,Jun,8.1,17518.0
+Baazigar,tt0106333,175.0,Nov,7.6,30511.0
+Zeher,tt0451983,132.0,Mar,5.6,2333.0
+Deewana,tt0126871,185.0,Jun,6.7,7630.0
+Amar Akbar Anthony,tt0075669,184.0,May,7.4,8642.0
+Godzilla vs. Kong,tt5034838,113.0,Mar,6.3,258054.0
+Shang-Chi and the Legend of the Ten Rings,tt9376612,132.0,Sep,7.3,465502.0
+Aap Ki Khatir,tt0810058,122.0,Aug,3.9,1005.0
+Jaal: The Trap,tt0340178,142.0,Jul,4.4,626.0
+Dil,tt0099429,172.0,Jun,6.6,5805.0
+Knock Out,tt1558578,117.0,Oct,6.1,2401.0
+Laadla,tt0187227,169.0,Mar,5.9,1470.0
+Kalyug,tt0499041,126.0,Dec,6.5,3109.0
+Chocolate,tt1183252,110.0,Feb,6.9,19020.0
+Akele Hum Akele Tum,tt0112313,160.0,Nov,6.9,5730.0
+Suhaag,tt0111308,145.0,Oct,5.8,2120.0
+Khamoshi: The Musical,tt0116763,160.0,Aug,7.5,4744.0
+Venom: Let There Be Carnage,tt7097896,97.0,Oct,5.9,291093.0
+Goodbye,tt14438964,130.0,Oct,6.7,10252.0
+Prassthanam,tt8706884,141.0,Sep,5.8,1693.0
+Sapoot,tt0135641,158.0,Nov,5.2,1229.0
+Jeena Sirf Merre Liye,tt0337652,137.0,Nov,3.9,874.0
+Deewane,tt0255097,164.0,Aug,4.6,659.0
+Armaan,tt0331851,158.0,May,5.3,1221.0
+Sonchiriya,tt8108200,143.0,Mar,7.9,13166.0
+Kahin Pyaar Na Ho Jaaye,tt0268401,159.0,Nov,4.4,2496.0
+Sooryavansham,tt0214178,168.0,May,6.3,4068.0
+Daraar,tt0116024,105.0,Jul,5.3,616.0
+Army,tt0115568,153.0,Jun,4.4,1962.0
+Vijaypath,tt0111625,163.0,Aug,5.0,809.0
+Blank,tt31961473,,May,8.3,2558.0
+Chef,tt2883512,114.0,May,7.3,239265.0
+Calendar Girls,tt0337909,108.0,Jan,6.9,28384.0
+Dilwale,tt4535650,158.0,Dec,5.1,39547.0
+Maharaja,tt26548265,141.0,Jun,8.4,59983.0
+Tezaab,tt0096252,173.0,Nov,6.9,2606.0
+Haqeeqat,tt0154565,184.0,,7.9,542.0
+Phool Aur Kaante,tt0254683,173.0,Nov,6.0,1668.0
+Sadak,tt0156985,134.0,Dec,6.4,2900.0
+Yeh Dil Aashiqanaa,tt0307682,152.0,Jan,4.4,359.0
+Pyaar Impossible!,tt1351224,140.0,Jan,4.9,3481.0
+Top Gun: Maverick,tt1745960,130.0,May,8.2,790467.0
+Genius,tt1703957,104.0,Jun,6.5,22140.0
+Sangharsh,tt0111068,127.0,Sep,6.7,5856.0
+Jung,tt0289725,147.0,May,4.3,442.0
+Rudraksh,tt0366985,143.0,Feb,2.8,1435.0
+Kuttey,tt15281704,109.0,Jan,5.5,10982.0
+Khiladi 420,tt0255305,157.0,Dec,5.2,2130.0
+Do Lafzon Ki Kahani,tt4857886,128.0,Jun,6.5,1773.0
+Vaah! Life Ho Toh Aisi!,tt0475645,153.0,Dec,4.7,2990.0
+Hulchul,tt0437238,149.0,Nov,7.0,9583.0
+Insaniyat,tt0110140,180.0,Mar,3.0,315.0
+Anari,tt0052560,166.0,Jan,7.6,895.0
+Aarzoo,tt0284811,175.0,Mar,5.0,1671.0
+Noor,tt5775220,117.0,Apr,4.1,1600.0
+Stanley Ka Dabba,tt1907761,96.0,May,7.8,7820.0
+Masoom,tt0085913,165.0,Oct,8.4,4325.0
+Yeh Dillagi,tt0111793,155.0,May,5.9,4803.0
+Aflatoon,tt0225029,153.0,Dec,4.5,1473.0
+Bobby,tt0308055,117.0,Nov,7.0,43129.0
+Mr. India,tt0093578,179.0,May,7.7,17166.0
+Mughal-e-Azam,tt0054098,197.0,Aug,8.1,9053.0
+Dil Ka Rishta,tt0330217,150.0,Jan,4.9,1950.0
+Rehnaa Hai Terre Dil Mein,tt0299108,160.0,Oct,7.5,9764.0
+Bewafa Sanam,tt0439464,144.0,May,5.3,149.0
+Yeh Hai Jalwa,tt0328671,165.0,Jul,4.8,2901.0
+Sirf Tum,tt16087918,,Nov,8.0,98.0
+Khichdi: The Movie,tt1738293,120.0,Oct,7.3,3149.0
+Bangistan,tt3422462,135.0,Aug,4.5,1444.0
+Style,tt0306855,157.0,Dec,6.7,2280.0
+Aunty No. 1,tt0118654,160.0,May,4.3,712.0
+Hum Hain Rahi Pyar Ke,tt0107166,163.0,Jul,7.3,6310.0
+Lahu Ke Do Rang,tt0151285,139.0,Sep,5.6,120.0
+Andaz Apna Apna,tt0109117,160.0,Nov,8.0,56036.0
+Kyaa Dil Ne Kahaa,tt0327005,,Jun,2.9,314.0
+Ravan Raaj: A True Story,tt0114236,153.0,Jun,6.1,154.0
+Baazi,tt0121989,183.0,Apr,6.4,2639.0
+Notebook,tt9105014,115.0,Mar,7.0,3288.0
+Indu Sarkar,tt6620324,139.0,Jul,6.0,2283.0
+Game Over,tt8914492,102.0,Jun,6.9,8486.0
+Nil Battey Sannata,tt5005684,100.0,Apr,8.2,8232.0
+The Zoya Factor,tt8304386,134.0,Sep,4.4,2733.0
+Dobaaraa,tt14042066,132.0,Aug,4.9,21300.0
+Dasara,tt15440322,156.0,Mar,6.6,11199.0
+Elaan,tt0290183,146.0,Jan,5.1,947.0
+Tutak Tutak Tutiya,tt6041458,138.0,Oct,5.5,849.0
+Helicopter Eela,tt8427036,135.0,Oct,5.5,1301.0
+Bol Radha Bol,tt0172188,164.0,Jul,6.1,924.0
+Khuddar,tt0110254,167.0,Mar,5.4,450.0
+Tum Bin - Love Will Find a Way,tt0290326,158.0,Jul,7.5,3884.0
+Taarzan: The Wonder Car,tt0435437,163.0,Aug,4.8,5647.0
+Junooniyat,tt3840534,155.0,Jun,4.1,1021.0
+Shazam! Fury Of The Gods,tt10151854,130.0,Mar,5.9,139390.0
+Khiladi,tt0104605,157.0,Jun,7.1,8596.0
+Mother India,tt0050188,172.0,Oct,7.8,10012.0
+Sanam Bewafa,tt0102835,160.0,Jan,5.2,1521.0
+Chandni Bar,tt0267363,150.0,Sep,7.6,2842.0
+Maidan-E-Jung,tt0267703,155.0,Apr,3.6,581.0
+Dhaakad,tt10598156,135.0,May,3.8,12144.0
+Kabzaa,tt11364772,134.0,Mar,4.7,15453.0
+Nanu Ki Jaanu,tt7412738,133.0,Apr,5.4,1806.0
+Jo Jeeta Wohi Sikander,tt16449766,,Dec,,
+No Time To Die,tt2382320,163.0,Oct,7.3,468748.0
+Sangam,tt0058547,238.0,Jun,7.3,1955.0
+Zamane Se Kya Darna,tt0339936,172.0,Jan,5.8,90.0
+Kaanchi...,tt3038772,151.0,Apr,4.2,696.0
+Janhit Mein Jaari,tt13534808,146.0,Jun,6.8,8153.0
+Kabhi Haan Kabhi Naa,tt0110222,158.0,Feb,7.6,19629.0
+Traffic,tt0181865,147.0,Jan,7.6,223374.0
+Darbar,tt9635540,159.0,Jan,5.9,7917.0
+Insaaf,tt0093263,,Jun,6.7,89.0
+Jayantabhai Ki Luv Story,tt2622130,130.0,Feb,5.3,1431.0
+Mitron,tt8852558,119.0,Sep,6.9,2706.0
+Don,tt0461936,171.0,Oct,7.2,42376.0
+Fareb,tt0444820,129.0,,4.2,202.0
+Masaan,tt4635372,109.0,Jun,8.1,33148.0
+Gunga Jumna,tt0054910,178.0,Jan,7.4,697.0
+Haathi Mere Saathi,tt0272118,170.0,May,6.9,1385.0
+Suraj Pe Mangal Bhari,tt10731264,141.0,Nov,5.9,3861.0
+Aashiqui,tt0149573,152.0,Jul,6.3,2097.0
+Jalebi,tt8426854,112.0,Oct,6.1,3207.0
+Disco Dancer,tt0208903,135.0,Dec,6.5,1734.0
+Seeta Aur Geeta,tt0078222,162.0,Nov,6.9,2153.0
+Chehre,tt10309902,139.0,Aug,6.2,28176.0
+Laal Kaptaan,tt9052960,155.0,Oct,7.2,5430.0
+Udaan,tt1639426,134.0,Jul,8.1,48297.0
+Kuch Kuch Locha Hai,tt4272420,143.0,May,2.6,932.0
+Kaafila,tt0886505,,Aug,3.3,196.0
+Buddha Mar Gaya,tt1083447,93.0,Aug,3.0,431.0
+One Night Stand,tt0119832,102.0,Sep,5.9,7376.0
+Zaalim,tt0290940,131.0,Dec,4.9,621.0
+Chori Chori,tt0326805,135.0,Aug,4.8,965.0
+Pihu,tt8458202,91.0,Nov,6.7,3032.0
+Zanjeer,tt0070947,145.0,May,7.5,4267.0
+Waqt,tt0059893,178.0,Jul,7.6,1555.0
+The Batman,tt1877830,176.0,Mar,7.8,884274.0
+Hum Hain Bemisaal,tt0290213,145.0,Dec,4.8,663.0
+Mere Mehboob,tt0266765,164.0,,6.9,227.0
+Angaaray,tt0288427,141.0,Jul,5.3,885.0
+Qayamat Se Qayamat Tak,tt0095936,162.0,Apr,7.4,11400.0
+Waiting,tt4818930,92.0,May,7.1,1886.0
+Mili,tt15257644,127.0,Nov,6.7,11299.0
+Malaal,tt10305616,136.0,Jul,5.9,1449.0
+Laila Majnu,tt8011276,140.0,Sep,7.7,6975.0
+Manto,tt6923462,112.0,Sep,7.3,4730.0
+The Body,tt1937149,112.0,Dec,7.6,74989.0
+Master,tt10579952,179.0,Jan,7.4,85662.0
+Aggar,tt0875692,,Sep,4.3,306.0
+Jai Kishen,tt0110177,129.0,Jun,4.7,699.0
+Phobia,tt1292575,240.0,Apr,6.6,3762.0
+Aligarh,tt5121000,114.0,Feb,7.8,7902.0
+Bhangra Paa Le,tt9766280,131.0,Jan,6.3,434.0
+Fantastic Beasts: The Secrets of Dumbledore,tt4123432,142.0,Apr,6.2,185466.0
+Salaam Venky,tt15567704,137.0,Feb,6.6,2485.0
+Uncharted,tt1464335,116.0,Feb,6.3,285665.0
+Pailwaan,tt7317482,166.0,Sep,6.2,2434.0
+Gandhi Godse Ek Yudh,tt13801462,110.0,Jan,6.7,8516.0
+Mere Jeevan Saathi,tt0418880,129.0,Feb,3.4,1049.0
+Shabaash Mithu,tt6265050,156.0,Jul,5.6,8342.0
+Bheed,tt15680228,124.0,Mar,6.5,12111.0
+Jai Mummy Di,tt9817760,103.0,Jan,3.7,1087.0
+Love Sonia,tt3823392,122.0,Sep,7.4,2606.0
+Nikamma,tt10687220,152.0,Jun,2.8,1765.0
+Saugandh,tt0102846,153.0,Jan,5.4,1057.0
+Akaash Vani,tt2423132,149.0,Jan,6.4,2285.0
+Zwigato,tt21998526,105.0,Mar,6.7,9997.0
+FryDay,tt7526836,114.0,Oct,5.3,905.0
