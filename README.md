@@ -1,11 +1,11 @@
 # Classification-Project-Movie-Verdict-Detector
 
-## 📌 Project Overview  
+##  Project Overview  
 This project focuses on building a **multi-class classification model** using a movie dataset from Kaggle, with additional feature enrichment from the **OMDb API** to improve prediction accuracy.  
 
 ---
 
-## 🔹 Steps & Methodology  
+##  Steps & Methodology  
 
 ### 1. Data Preprocessing  
 - Conducted **Exploratory Data Analysis (EDA)** to understand trends and patterns.  
@@ -31,7 +31,7 @@ This project focuses on building a **multi-class classification model** using a 
 
 ---
 
-## 📊 Results Summary  
+##  Results Summary  
 
 | Dataset Version  | Features Used         | Best Model        | Accuracy |
 |------------------|----------------------|-------------------|----------|
