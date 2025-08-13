@@ -25,7 +25,7 @@ This project focuses on building a **multi-class classification model** using a 
 - Extracted additional features using the **OMDb API** & **TMDb API**.  
 - Re-applied preprocessing steps on the enriched dataset.  
 - Achieved improved best accuracy: **~93%**.
-- Best Model - **ANN** 
+- Best Model - **All the models used** 
 
 ### 4. Visualization  
 - Designed an **interactive Power BI dashboard** for:  
@@ -39,6 +39,6 @@ This project focuses on building a **multi-class classification model** using a 
 | Dataset Version  | Features Used         | Best Model        | Accuracy |
 |------------------|----------------------|-------------------|----------|
 | Original Dataset | Basic Kaggle features | Decision Tree     | ~31%     |
-| Enriched Dataset | Web Data + OMDb API + TMDb API     | ANN                 | ~93%     |
+| Enriched Dataset | Web Data + OMDb API + TMDb API     | All the model                 | ~93%     |
 
 ---
