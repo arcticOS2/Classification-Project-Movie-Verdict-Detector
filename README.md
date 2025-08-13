@@ -1,7 +1,7 @@
 # Classification-Project-Movie-Verdict-Detector
 
 ##  Project Overview  
-This project focuses on building a **multi-class classification model** using a movie dataset from Kaggle, with additional feature enrichment from the **OMDb API** to improve prediction accuracy.  
+This project focuses on building a **multi-class classification model** using a movie dataset from Kaggle, with additional feature enrichment and data collection uswing webscraping and APIs like **OMDb API**,**TMDb API** to improve prediction accuracy.  
 
 ---
 
@@ -14,15 +14,18 @@ This project focuses on building a **multi-class classification model** using a 
 ### 2. Model Training  
 - Trained multiple models:  
   - **Artificial Neural Network (ANN)**  
-  - **K-Nearest Neighbors (KNN)**  
+  - **K-Nearest Neighbours (KNN)**  
   - **Decision Tree**  
   - **Random Forest**  
-- Initial accuracy on test data: **~64%**.  
+- Initial best accuracy on test data: **~31%** .
+- Best Model - **Decision Tree**
 
-### 3. Feature Enrichment  
-- Extracted additional features using the **OMDb API**.  
+### 3. Feature Enrichment and Data Extraction
+- Rebuilt the data set from scratch by scraping the [Bollywood hungama](https://www.bollywoodhungama.com/) page using rvest.
+- Extracted additional features using the **OMDb API** & **TMDb API**.  
 - Re-applied preprocessing steps on the enriched dataset.  
-- Achieved improved accuracy: **~92%**.  
+- Achieved improved best accuracy: **~93%**.
+- Best Model - **ANN** 
 
 ### 4. Visualization  
 - Designed an **interactive Power BI dashboard** for:  
@@ -35,7 +38,7 @@ This project focuses on building a **multi-class classification model** using a 
 
 | Dataset Version  | Features Used         | Best Model        | Accuracy |
 |------------------|----------------------|-------------------|----------|
-| Original Dataset | Basic Kaggle features | Random Forest     | ~64%     |
-| Enriched Dataset | Kaggle + OMDb API     | Random Forest     | ~92%     |
+| Original Dataset | Basic Kaggle features | Decision Tree     | ~31%     |
+| Enriched Dataset | Web Data + OMDb API + TMDb API     | ANN                 | ~93%     |
 
 ---
