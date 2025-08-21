@@ -1,4 +1,4 @@
-# Classification-Project-Movie-Verdict-Detector
+# Movie Verdict & Genre Detector Using Neural Network, ML and an Analysis on Importance of Data 
 
 ##  Project Overview  
 This project focuses on building a **multi-class classification model** using a movie dataset from Kaggle, with additional feature enrichment and data collection uswing webscraping and APIs like **OMDb API**,**TMDb API** to improve prediction accuracy.  
